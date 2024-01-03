@@ -17,7 +17,8 @@ You are provided with a starter project that includes a React Native mobile app 
   to sign out from the app.
 5. 
   Each folder contains a README with instructions on how to run the builds.
-6. Video link to check the app
+6. Video link to check the app:
+  https://drive.google.com/file/d/1DHZkNte_lltsaWCDTLaTZxquQ33bs4Ht/view?usp=drivesdk
  
 
 # Improvements for BackEnd
